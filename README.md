@@ -8,7 +8,7 @@
 
 - 🚀 My short-term goal is to gain practical experience and further enhance my skills as a developer. In the long term, I aspire to take on more challenging roles and contribute to the development of innovative projects.
 
-- 📝 Certificates: Oracle Academy Java Foundations.
+- 📝 Certificates: [Oracle Academy Java Foundations](https://drive.google.com/drive/folders/1btrzU6AdCQUXwbhxf7Es979HA5-DesY8?usp=sharing).
 
 - 🎮 Fun fact: I absolutely love playing video games, watching anime, series, and movies, indulging in music, and engaging in sports.
 
