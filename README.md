@@ -1,4 +1,4 @@
-# Hello, I'm Eric!👋
+# **Hello, I'm Eric!**👋
 
 - 🌱 I am a passionate student and junior developer in the programming world. 
 
