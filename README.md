@@ -1,15 +1,15 @@
 # Hello, I'm Eric!👋
 
--🌱 I am a passionate student and junior developer in the programming world. 
+- 🌱 I am a passionate student and junior developer in the programming world. 
 
--⛏️ One of my mini projects has been the implementation and configuration of game servers with mods, as well as developing mods for Project Zomboid or creating my own game ideas for Pokémon.
+- ⛏️ One of my mini projects has been the implementation and configuration of game servers with mods, as well as developing mods for Project Zomboid or creating my own game ideas for Pokémon.
 
--💡 My primary focus at the moment is to continue learning and acquiring new skills.
+- 💡 My primary focus at the moment is to continue learning and acquiring new skills.
 
--🚀 My short-term goal is to gain practical experience and further enhance my skills as a developer. In the long term, I aspire to take on more challenging roles and contribute to the development of innovative projects.
+- 🚀 My short-term goal is to gain practical experience and further enhance my skills as a developer. In the long term, I aspire to take on more challenging roles and contribute to the development of innovative projects.
 
--📝 Certificates: Oracle Academy Java Foundations.
+- 📝 Certificates: Oracle Academy Java Foundations.
 
--🎮 Fun fact: I absolutely love playing video games, watching anime, series, and movies, indulging in music, and engaging in sports.
+- 🎮 Fun fact: I absolutely love playing video games, watching anime, series, and movies, indulging in music, and engaging in sports.
 
--🌍 Languages: Spanish, Catalan, English
+- 🌍 Languages: Spanish, Catalan, English
