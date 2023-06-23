@@ -1,5 +1,7 @@
 # Hello, I'm Eric!👋 <img alt="monke" width="300px" align="right"  src="https://i.imgur.com/AlbThef.jpg" />
 
+## About me : ![](https://media1.giphy.com/media/kDf0eEXhOhlZgdp2dy/giphy.gif?cid=ecf05e47hj493wrmw8sjrupmwdtw1qvylirtnstsy3bud44g&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 - 🌱 I am a passionate student and junior developer in the programming world. 
 
 - ⛏️ One of my mini projects has been the implementation and configuration of game servers with mods, as well as developing mods for Project Zomboid or creating my own game ideas for Pokémon.
