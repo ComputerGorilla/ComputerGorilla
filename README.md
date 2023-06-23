@@ -1,3 +1,4 @@
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Btd20?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 # Hello, I'm Eric!👋
 
 - 🌱 I am a passionate student and junior developer in the programming world. 
@@ -13,3 +14,7 @@
 - 🎮 Fun fact: I absolutely love playing video games, watching anime, series, and movies, indulging in music, and engaging in sports.
 
 - 🌍 Languages: Spanish, Catalan, English
+
+## Language and Tools :
+
+
