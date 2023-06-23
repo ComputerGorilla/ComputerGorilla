@@ -1,5 +1,5 @@
-![# Hello, I'm Eric!👋](./[https://media.istockphoto.com/id/184941527/es/foto/hombre-de-negocios-en-ropa-chimpanc%C3%A9.jpg?s=612x612&w=0&k=20&c=G3L9zarmgJHF4fuwuNvEf-_0VlgpL5nNJ3s_gEomLjY=])
-
+![header](./[[https://media.istockphoto.com/id/184941527/es/foto/hombre-de-negocios-en-ropa-chimpanc%C3%A9.jpg?s=612x612&w=0&k=20&c=G3L9zarmgJHF4fuwuNvEf-_0VlgpL5nNJ3s_gEomLjY=](https://media.istockphoto.com/id/184941527/es/foto/hombre-de-negocios-en-ropa-chimpanc%C3%A9.jpg?s=612x612&w=0&k=20&c=G3L9zarmgJHF4fuwuNvEf-_0VlgpL5nNJ3s_gEomLjY=)])
+# Hello, I'm Eric!👋
 
 - 🌱 I am a passionate student and junior developer in the programming world. 
 
