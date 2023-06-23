@@ -16,6 +16,6 @@
 
 ## Language and Tools :
 
-![]([https://media4.giphy.com/media/KpACNEh8jXK2Q/giphy.gif?cid=ecf05e4770ftx3mbjuizqn4ddf8aszr9pyzdjnuqt39mt3in&ep=v1_gifs_search&rid=giphy.gif&ct=g](http://imgur.com/gallery/AgbzvLA))
+![]([http://imgur.com/gallery/AgbzvLA](https://media4.giphy.com/media/O4iaxRcEmwq2Y/giphy.gif?cid=ecf05e4770ftx3mbjuizqn4ddf8aszr9pyzdjnuqt39mt3in&ep=v1_gifs_search&rid=giphy.gif&ct=g))
 <p><a href="https://giphy.com/gifs/computer-monkey-KpACNEh8jXK2Q">via GIPHY</a></p>
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Btd20?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
