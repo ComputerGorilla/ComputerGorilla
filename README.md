@@ -1,5 +1,5 @@
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Btd20?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
-# Hello, I'm Eric!👋
+![# Hello, I'm Eric!👋](./[https://media.istockphoto.com/id/184941527/es/foto/hombre-de-negocios-en-ropa-chimpanc%C3%A9.jpg?s=612x612&w=0&k=20&c=G3L9zarmgJHF4fuwuNvEf-_0VlgpL5nNJ3s_gEomLjY=])
+
 
 - 🌱 I am a passionate student and junior developer in the programming world. 
 
@@ -17,4 +17,4 @@
 
 ## Language and Tools :
 
-
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Btd20?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
