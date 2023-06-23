@@ -1,4 +1,4 @@
-# Hello, I'm Eric!👋 <img alt="monke" width="300px" float="right" margin-left="700px" src="https://i.imgur.com/AlbThef.jpg" />
+# Hello, I'm Eric!👋 <img alt="monke" width="300px" float="right" margin-left="1000px" src="https://i.imgur.com/AlbThef.jpg" />
 
 - 🌱 I am a passionate student and junior developer in the programming world. 
 
