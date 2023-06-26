@@ -21,4 +21,4 @@
 ![](https://media2.giphy.com/media/QNFhOolVeCzPQ2Mx85/200w.webp?cid=ecf05e47ayenaqxuwqdz3lb7ixw26xdnwinz2ksfqxk6439l&ep=v1_gifs_search&rid=200w.webp&ct=g)
 ![](https://media4.giphy.com/media/O4iaxRcEmwq2Y/200w.webp?cid=ecf05e4770ftx3mbjuizqn4ddf8aszr9pyzdjnuqt39mt3in&ep=v1_gifs_search&rid=200w.webp&ct=g)
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ComputerGorilla?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
-![](https://komarev.com/ghpvc/?Sempi=ComputerGorilla&style=for-the-badge)
+![](https://komarev.com/ghpvc/?ComputerGorilla=ComputerGorilla&style=for-the-badge)
