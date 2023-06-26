@@ -17,7 +17,7 @@
 - 🌍 Languages: Spanish, Catalan, English
 
 
-## Language and Tools : <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"/>
+## Language and Tools : <img width=100px height=100px src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"/>
 ![](https://media2.giphy.com/media/QNFhOolVeCzPQ2Mx85/200w.webp?cid=ecf05e47ayenaqxuwqdz3lb7ixw26xdnwinz2ksfqxk6439l&ep=v1_gifs_search&rid=200w.webp&ct=g)
 ![](https://media4.giphy.com/media/O4iaxRcEmwq2Y/200w.webp?cid=ecf05e4770ftx3mbjuizqn4ddf8aszr9pyzdjnuqt39mt3in&ep=v1_gifs_search&rid=200w.webp&ct=g)
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Btd20?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
