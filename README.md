@@ -13,6 +13,7 @@
 - 📝 Certificates:
 
   [Oracle Academy Java Foundations](https://drive.google.com/drive/folders/1btrzU6AdCQUXwbhxf7Es979HA5-DesY8?usp=sharing).
+
   [OpenWebinars](https://drive.google.com/file/d/1p3qEV7qDihbCxMo_BqMk5VTwCiV1A8gH/view?usp=drive_link).
 
 - 🎮 Fun fact: I absolutely love playing video games, watching anime, series, and movies, indulging in music, and engaging in sports.
