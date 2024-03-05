@@ -1,6 +1,6 @@
 # Hello, I'm Eric!👋 <img alt="monke" width="300px" align="right"  src="https://i.imgur.com/AlbThef.jpg" />
 
-## About me :
+# About me :
 
 - 🌱 I am a passionate student and junior developer in the programming world. 
 
