@@ -1,5 +1,5 @@
-# Hello, I'm Eric! 👋  
 <img alt="monke" width="300px" align="right" src="https://i.imgur.com/AlbThef.jpg" />
+# Hello, I'm Eric! 👋
 
 ## 👨‍💻 About Me  
 
