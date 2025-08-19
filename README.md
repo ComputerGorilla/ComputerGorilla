@@ -2,7 +2,6 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/eric-ramos-soto97)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ComputerGorilla)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/TuUsuario)  
 
 <img align="right" height="220" width="320" alt="catcoding gif" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDF6YWI1NmI1YWYyNnh2b250N3hraWt6dGxseHYzcnN0Mm12aGRjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" />
 
